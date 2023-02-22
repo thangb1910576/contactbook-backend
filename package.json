@@ -1,13 +1,12 @@
 {
-  "name": "contactbook_backend",
+  "name": "contactbook-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "Lab 1 + 2",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "ThangB1910576",
+  "author": "Cuong B1910498",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
